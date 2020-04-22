@@ -1,6 +1,5 @@
 from django.urls import path, re_path
 
-
 from .views import ThreadView, InboxView
 
 app_name = 'chat'
